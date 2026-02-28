@@ -1,0 +1,15 @@
+[project]
+name = "uv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pip>=26.0.1",
+    "playwright>=1.58.0",
+    "plotly>=6.5.2",
+    "rerequests>=1.0.0b0",
+    "thonny>=4.1.7",
+]
